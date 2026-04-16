@@ -11,4 +11,4 @@ else
 fi
 
 dotnet tool restore
-dotnet cake --port="$PORT"
+dotnet cake recipe.cake --port="$PORT"
