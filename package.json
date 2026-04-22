@@ -3,14 +3,14 @@
   "packageManager": "yarn@4.13.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chocolatey/boxstarter.org.git"
+    "url": "git+https://github.com/chocolatey-community/boxstarter.org.git"
   },
   "author": "chocolatey",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/chocolatey/boxstarter.org/issues"
+    "url": "https://github.com/chocolatey-community/boxstarter.org/issues"
   },
-  "homepage": "https://github.com/chocolatey/boxstarter.org#readme",
+  "homepage": "https://github.com/chocolatey-community/boxstarter.org#readme",
   "engines": {
     "node": ">=22.12.0"
   },

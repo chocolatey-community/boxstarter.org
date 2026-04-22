@@ -32,7 +32,7 @@ To preview the site locally on your machine, either run the `.\preview.ps1` or t
 
 ## Build Status
 
-[![GitHub Actions Build Status](https://github.com/chocolatey/boxstarter.org/workflows/Publish%20Documentation/badge.svg)](https://github.com/chocolatey/boxstarter.org/actions?query=workflow%3A%22Build+Pull+Request%22)
+[![GitHub Actions Build Status](https://github.com/chocolatey-community/boxstarter.org/workflows/Publish%20Documentation/badge.svg)](https://github.com/chocolatey-community/boxstarter.org/actions?query=workflow%3A%22Build+Pull+Request%22)
 
 ## Chat Room
 Come join in the conversation about Chocolatey in our [Community Chat Room](https://ch0.co/community).
