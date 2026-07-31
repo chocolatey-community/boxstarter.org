@@ -26,9 +26,9 @@
   },
   "devDependencies": {
     "@chocolatey-software/assets": "2.0.0",
-    "@chocolatey-software/build-tools": "2.9.2"
+    "@chocolatey-software/build-tools": "2.10.0"
   },
   "dependencies": {
-    "@chocolatey-software/boxstarter": "2.9.0"
+    "@chocolatey-software/boxstarter": "2.10.0"
   }
 }
